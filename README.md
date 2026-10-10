@@ -52,31 +52,31 @@ The dataset contains campaign dates, campaign names, marketing channels, campaig
 
 ## Power BI Dashboard
 
-The Power BI report contains four dashboard pages.
+The Power BI report contains four interactive dashboard pages covering overall marketing performance, channel performance, campaign performance, and regional and audience analysis.
 
 ### 1. Marketing Overview
 
-Provides an overall view of marketing performance, including total revenue, spend, conversions, new customers and ROAS. It also compares revenue by channel, spend against revenue, and monthly revenue trends.
+This dashboard provides an overview of total revenue, spend, conversions, new customers, ROAS, revenue by channel, spend versus revenue, and monthly revenue trends.
 
-![Marketing Overview Dashboard](Marketing%20Overview.png)
+![Marketing Overview](images/Marketing%20Overview.png)
 
 ### 2. Channel Performance Analysis
 
-Compares marketing channels using click-through rate (CTR), conversion rate, clicks and conversions. It helps identify channels with stronger engagement and conversion performance.
+This dashboard compares marketing channels using click-through rate (CTR), conversion rate, clicks, and conversions to identify differences in engagement and conversion performance.
 
-![Channel Performance Analysis](Channel%20Performance%20Analysis.png)
+![Channel Performance Analysis](images/Channel%20Performance%20Analysis.png)
 
 ### 3. Campaign Performance Analysis
 
-Examines revenue and ROAS by campaign type, campaign status distribution and conversions across campaign types.
+This dashboard compares revenue and ROAS by campaign type, campaign status distribution, and conversions across campaign types.
 
-![Campaign Performance Analysis](Campaign%20Performance.png)
+![Campaign Performance Analysis](images/Campaign%20Performance.png)
 
 ### 4. Regional and Audience Analysis
 
-Compares revenue and ROAS across regions and examines revenue and conversion rates across target audiences.
+This dashboard analyses revenue and ROAS across regions and compares revenue and conversion rates across target audiences.
 
-![Regional and Audience Analysis](Regional%20%26%20Audience%20Analysis.png)
+![Regional and Audience Analysis](images/Regional%20%26%20Audience%20Analysis.png)
 
 ## Key Findings
 
